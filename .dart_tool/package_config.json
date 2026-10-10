@@ -69,9 +69,9 @@
     },
     {
       "name": "google_maps_flutter_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/google_maps_flutter_platform_interface-2.17.0",
+      "rootUri": "file:///home/sumit/.pub-cache/git/google_maps_flutter_platform_interface-d2e33badbc7430777e06022b7f7a3fa533cb2045/",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.13"
     },
     {
       "name": "html",
@@ -123,9 +123,9 @@
     },
     {
       "name": "plugin_platform_interface",
-      "rootUri": "file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.8",
+      "rootUri": "file:///home/sumit/.pub-cache/git/plugin_platform_interface-f19d3faf8d449aa73be0c3c71bd7e67fc0fb28bf/",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.8"
     },
     {
       "name": "sanitize_html",

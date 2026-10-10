@@ -39,8 +39,26 @@
       ]
     },
     {
+      "name": "web",
+      "version": "1.1.1",
+      "dependencies": []
+    },
+    {
+      "name": "stream_transform",
+      "version": "2.1.2",
+      "dependencies": []
+    },
+    {
+      "name": "sanitize_html",
+      "version": "2.2.0",
+      "dependencies": [
+        "html",
+        "meta"
+      ]
+    },
+    {
       "name": "google_maps_flutter_platform_interface",
-      "version": "2.17.0",
+      "version": "2.18.0",
       "dependencies": [
         "collection",
         "flutter",
@@ -138,6 +156,13 @@
       ]
     },
     {
+      "name": "plugin_platform_interface",
+      "version": "2.1.8",
+      "dependencies": [
+        "meta"
+      ]
+    },
+    {
       "name": "sky_engine",
       "version": "0.0.0",
       "dependencies": []
@@ -172,13 +197,6 @@
       "dependencies": []
     },
     {
-      "name": "plugin_platform_interface",
-      "version": "2.1.8",
-      "dependencies": [
-        "meta"
-      ]
-    },
-    {
       "name": "leak_tracker_testing",
       "version": "3.0.2",
       "dependencies": [
@@ -199,19 +217,6 @@
       ]
     },
     {
-      "name": "web",
-      "version": "1.1.1",
-      "dependencies": []
-    },
-    {
-      "name": "sanitize_html",
-      "version": "2.2.0",
-      "dependencies": [
-        "html",
-        "meta"
-      ]
-    },
-    {
       "name": "term_glyph",
       "version": "1.2.2",
       "dependencies": []
@@ -227,11 +232,6 @@
     {
       "name": "vector_math",
       "version": "2.4.3",
-      "dependencies": []
-    },
-    {
-      "name": "stream_transform",
-      "version": "2.1.2",
       "dependencies": []
     },
     {
